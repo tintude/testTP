@@ -6,8 +6,8 @@
 package commevouslesouhaitez;
 
 /**
- * coucou coucou coucou
- * @author Tristan
+ * coucou coucou coucou :))) 
+ * @author  :))))ffefef
  */
 
 public class FFdebugCalc {
